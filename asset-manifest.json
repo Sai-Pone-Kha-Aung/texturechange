@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/texturechange/static/css/main.98212581.css",
+    "main.js": "/texturechange/static/js/main.b1a0019b.js",
+    "static/js/787.890f9bcb.chunk.js": "/texturechange/static/js/787.890f9bcb.chunk.js",
+    "index.html": "/texturechange/index.html",
+    "main.98212581.css.map": "/texturechange/static/css/main.98212581.css.map",
+    "main.b1a0019b.js.map": "/texturechange/static/js/main.b1a0019b.js.map",
+    "787.890f9bcb.chunk.js.map": "/texturechange/static/js/787.890f9bcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98212581.css",
+    "static/js/main.b1a0019b.js"
+  ]
+}
